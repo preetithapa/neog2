@@ -19,7 +19,6 @@ hr {
 
 .margin-md {
     margin: 2rem;
-   
 }
 
 /* container */
@@ -111,7 +110,6 @@ hr {
 .hero {
     padding: 2rem;
     padding-top: 5rem;
-
 }
 
 .hero .head-img {
@@ -137,11 +135,8 @@ hr {
     text-align: center;
 }
 
-
-
 .section h1 {
     text-align: center;
-
 }
 
 .ow {
@@ -149,7 +144,6 @@ hr {
     margin-left: 8rem;
     margin-right: 8rem;
     border-radius: 1rem;
-    
 }
 
 /* footers */
@@ -180,13 +174,3 @@ hr {
     background: rgba(232, 235, 233, 0.7);
     border-radius: 6px;
 }
-
-/* projects */
-/* .showcase-list {
-    padding: 2rem;
-} */
-
-/* blogs */
-/* .showcase-blog {
-    padding-bottom: 6rem;
-} */
